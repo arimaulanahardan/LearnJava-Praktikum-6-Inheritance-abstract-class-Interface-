@@ -1,0 +1,2 @@
+module PBO6Praktikum {
+}
